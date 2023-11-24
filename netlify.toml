@@ -1,0 +1,3 @@
+[[edge_functions]]
+function = "get_movie"
+path = "/get_movie"
